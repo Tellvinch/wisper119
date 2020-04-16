@@ -1,9 +1,17 @@
+.html{
+    
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
+.logo{
+    float: left;
+}
 .container{
     font-family: sans-serif;
     text-align: center;
-    background-image:url("img/bg.jpg") ;
-
+    
+   
 }
 
 .navbar{
@@ -11,6 +19,7 @@
     font-size: 20px;
     padding-left: 14px;
 }
+
 .navbar ul li {
     display: inline;
 }
